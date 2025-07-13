@@ -39,9 +39,8 @@ Classified text messages as spam or not using NLP techniques and Support Vector 
 
 ## 🧾 Certifications
 
-- Google Data Analytics – Coursera
-- SQL for Data Science – Udemy
-- Python for Data Analysis – NPTEL
+- C Programming Certificate
+- Fundamentals of Full Stack Development – ExcelR
 
 ---
 
@@ -51,5 +50,5 @@ Classified text messages as spam or not using NLP techniques and Support Vector 
 ---
 
 ## 📬 Contact Me
-- 📧 Email: yourname@email.com
+- 📧 Email: amrutawanhade2708@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/amrutawankhade](#)
